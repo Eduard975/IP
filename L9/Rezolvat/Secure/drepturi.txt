@@ -1,0 +1,4 @@
+public1.rtf public2.rtf
+privat1.rtf privat2.rtf
+confidential.rtf
+topsecret.rtf
